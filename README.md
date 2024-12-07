@@ -19,5 +19,5 @@
 50回文字列をタイピングすると終了です。
 測定結果は自動で``TypingTest/TypingTest_Data/SaveData/``に``{ID}_{username}_{text}.json``という名前のJSONファイルで保存されます。
 
-続けて測定を行う場合は、ID（必要があればusername、text）を変更して再度Spaceキーを押すと再度測定を開始できます。
+続けて測定を行う場合は、ID（必要があればusername、text）を変更してSpaceキーを押すと再度測定を開始できます。
 指が疲れるので連続して測定する場合は間隔を開けたほうがよさそうです。
